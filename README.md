@@ -1,7 +1,7 @@
 # Working-with-a-Mock-Client
-Managing Freelancing Projects - Working with a Mock Client - Udacity Data Analysis Professional Degree
+> Managing Freelancing Projects - Working with a Mock Client - Udacity Data Analysis Professional Degree
 
-Learn how to manage the client by utilizing the project management process through a tool called Trello as well as setting up project milestones.
+** Learn how to manage the client by utilizing the project management process through a tool called Trello as well as setting up project milestones. **
 
 Once it’s time to get paid, you’ll be invoicing your clients! Following these steps will get you comfortable with interacting with clients as well as going through a project stage from initial communication to final payment.
 
