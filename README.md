@@ -13,3 +13,10 @@ Once it’s time to get paid, you’ll be invoicing your clients! Following thes
   + Write an initial expression of interest message to a client.
   + Set up a project management process, create a Trello board with outlined project milestones.
   + Invoice the client by using a provided invoicing template.
+
+## The goals of the project:
+
+   * Find and apply for freelance jobs by creating a process to source clients.
+   * Use best practices to negotiate a project scope and choose a pricing framework aligning with the client's needs.
+   * Manage projects by maximizing value for the client.
+   * Formally close out a project and secure payment.
